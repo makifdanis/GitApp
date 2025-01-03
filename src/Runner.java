@@ -6,6 +6,7 @@ public class Runner {
 
 
 
+
        //versiyon2
         System.out.println("değişiklik yaptım");
 
